@@ -1,4 +1,5 @@
-/test1.txt
+
 Calculator/
 devops-exercises/
-test2.txt
+
+*.log
